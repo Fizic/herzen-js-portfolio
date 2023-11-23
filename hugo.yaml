@@ -1,0 +1,32 @@
+languageCode: "ru-ru"
+baseUrl: ""
+title: "Firsov Kirill"
+theme: "anubis"
+paginate: 10
+enableRobotsTXT: true
+
+params:
+  author: "Firsov Kirill"
+  email: inbox@kirillfirsov.ru # used for microformats
+  avatar: "/images/me.png" # used for microformats
+  description: ""
+  dateFormat: "02.01.2006"
+  paginationSinglePost: true
+  style: dark-without-switcher
+  mainSections: [ "posts" ] # which sections should be on index/main page
+  sectionsWithFullContentOnListPage: [ "notes" ] # for which sections content should be displayed on list pages
+  readMore: true
+  readNextPosts: 5  # show 5 related posts, 0 by default
+  disableSummary: false
+  toc: true # display Table of Contents
+  tocWordCount: 300 # ...when a post is longer than 300 words
+  copyCodeButton: true # true by default
+  rssAsSocialIcon: true
+  social:
+    - id: github
+      name: Fizic
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # enable raw HTML in Markdown
