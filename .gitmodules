@@ -1,3 +1,3 @@
-[submodule "lab_2/portfolio/themes/anubis"]
-	path = lab_2/portfolio/themes/anubis
+[submodule "themes/anubis"]
+	path = themes/anubis
 	url = https://github.com/Mitrichius/hugo-theme-anubis.git
