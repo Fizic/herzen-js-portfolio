@@ -1,7 +1,7 @@
 languageCode: "ru-ru"
 baseUrl: ""
 title: "Firsov Kirill"
-theme: "anubis"
+theme: "github.com/Mitrichius/hugo-theme-anubis"
 paginate: 10
 enableRobotsTXT: true
 
