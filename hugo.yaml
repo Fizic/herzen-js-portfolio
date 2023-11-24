@@ -8,6 +8,7 @@ enableRobotsTXT: true
 params:
   author: "Firsov Kirill"
   email: inbox@kirillfirsov.ru # used for microformats
+  avatar: "/images/me.png" # used for microformats
   description: ""
   dateFormat: "02.01.2006"
   paginationSinglePost: true
@@ -20,6 +21,7 @@ params:
   toc: true # display Table of Contents
   tocWordCount: 300 # ...when a post is longer than 300 words
   copyCodeButton: true # true by default
+  rssAsSocialIcon: true
   social:
     - id: github
       name: Fizic
