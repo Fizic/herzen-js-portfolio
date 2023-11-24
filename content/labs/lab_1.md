@@ -1,7 +1,7 @@
 +++
-title = 'Lab_1'
-date = 2023-11-23T19:08:03+03:00
+title = 'Лабораторная работа №1'
+date = 2023-10-30T19:08:03+03:00
 draft = false
 +++
 
-some
+Исходный код: https://github.com/Fizic/herzen-js-practice/tree/master/lab_1/set_2
