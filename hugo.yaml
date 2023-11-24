@@ -13,6 +13,7 @@ params:
   paginationSinglePost: true
   style: dark-without-switcher
   mainSections: [ "posts" ] # which sections should be on index/main page
+  sectionsWithFullContentOnListPage: [ "notes" ] # for which sections content should be displayed on list pages
   readMore: true
   readNextPosts: 5  # show 5 related posts, 0 by default
   disableSummary: false
