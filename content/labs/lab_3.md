@@ -5,7 +5,7 @@ draft = false
 +++
 
 Клиентский код для работы со сторонними сервисами:
-1. [Развернутое приложение](https://fizic.github.io/herzen-js-portfolio/lab_3/task_1.html) [Код](https://github.com/Fizic/herzen-js-portfolio/blob/master/static/js/lab_3/task_1.js)
+1. [Развернутое приложение](https://fizic.github.io/herzen-js-portfolio/lab_3/task_1.html), [Код](https://github.com/Fizic/herzen-js-portfolio/blob/master/static/js/lab_3/task_1.js)
 2. 
 3. 
 4. 
