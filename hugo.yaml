@@ -25,6 +25,8 @@ params:
   social:
     - id: github
       name: Fizic
+  staticDir:
+    -
 
 markup:
   goldmark:
