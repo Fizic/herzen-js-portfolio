@@ -7,3 +7,9 @@ draft = false
 Исходный код: https://github.com/Fizic/herzen-js-portfolio/
 
 Развернутое приложение: https://fizic.github.io/herzen-js-portfolio/
+
+Авторы:
+1. Закаблукова Анастасия
+2. Костылева Элеонора
+3. Нечаева Наталия
+4. Фирсов Кирилл
