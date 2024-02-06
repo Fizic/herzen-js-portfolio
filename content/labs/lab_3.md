@@ -29,9 +29,3 @@ draft = false
 5. [Код](https://replit.com/@elkostylevaa/web#%D0%BE%D0%BE%D0%BF.js)
 6. [Код](https://github.com/elyakkos/webb.git)
 7. [Код](https://github.com/Fizic/herzen-js-portfolio/blob/master/webpack.config.js)
-    
-Авторы:
-1. Закаблукова Анастасия
-2. Костылева Элеонора
-3. Нечаева Наталия
-4. Фирсов Кирилл
