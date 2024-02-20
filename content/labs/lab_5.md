@@ -6,11 +6,11 @@ draft = false
 
 Пример отчета до:
 
-<img src="/images/old.png">
+<img src="/herzen-js-portfolio/images/old.png">
 
 Пример отчета после:
 
-<img src="/images/new.png">
+<img src="/herzen-js-portfolio/images/new.png">
 
 
 Изменения: "Убрал powered by HUGO", изменил цвета сайта
