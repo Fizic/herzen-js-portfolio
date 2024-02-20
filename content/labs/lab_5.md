@@ -14,3 +14,5 @@ draft = false
 
 
 Изменения: "Убрал powered by HUGO", изменил цвета сайта
+
+Форма обратной связи с использованием Bootstrap 5: https://fizic.github.io/herzen-js-portfolio/lab_4/task_1.html
